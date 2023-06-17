@@ -11,6 +11,7 @@
 #include <cstddef>
 #include <cstdint>
 #include <system_error>
+#include <type_traits>
 
 namespace charls::impl {
 
